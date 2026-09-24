@@ -1,17 +1,17 @@
-# WPS-WiFi-Hacking-Android-Root_Termux_Installer
-Run WPS-WiFi-Hacking-Android-Root Easily
-## [WPS-WiFi-Hacking-Android-Root](https://github.com/Sakib-BD-PLAYX/WPS-WiFi-Hacking-Android-Root) installer for [Termux](https://termux.com/)
+# WPS-Wifi-Penetration-Test-ROOT_Termux_Installer
+Run WPS-Wifi-Penetration-Test-ROOT Easily
+## [WPS-Wifi-Penetration-Test-ROOT](https://github.com/Sakib-BD-PLAYX/WPS-Wifi-Penetration-Test-ROOT) installer for [Termux](https://termux.com/)
 ### Setup
 ```
-curl -sSf https://raw.githubusercontent.com/Sakib-BD-PLAYX/WPS-WiFi-Hacking-Android-Root_Termux_Installer/master/installer.sh | bash
+curl -sSf https://raw.githubusercontent.com/Sakib-BD-PLAYX/WPS-Wifi-Penetration-Test-ROOT_Termux_Installer/master/installer.sh | bash
 ```
 ### Run
 Disable Wi-Fi in the system settings and run:
 ```
-sudo python WPS-WiFi-Hacking-Android-Root/wpswifi.py -i wlan0 -K
+sudo python WPS-Wifi-Penetration-Test-ROOT/wpswifi.py -i wlan0 -K
 ```
 ### How to update OneShot
 To check for updates and update, run the following command:
 ```
-(cd WPS-WiFi-Hacking-Android-Root && git pull)
+(cd WPS-Wifi-Penetration-Test-ROOT && git pull)
 ```

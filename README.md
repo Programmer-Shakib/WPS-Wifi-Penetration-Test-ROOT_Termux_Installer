@@ -1,9 +1,9 @@
 # WPS-Wifi-Penetration-Test-ROOT_Termux_Installer
 Run WPS-Wifi-Penetration-Test-ROOT Easily
-## [WPS-Wifi-Penetration-Test-ROOT](https://github.com/Sakib-BD-PLAYX/WPS-Wifi-Penetration-Test-ROOT) installer for [Termux](https://termux.com/)
+## [WPS-Wifi-Penetration-Test-ROOT](https://github.com/Programmer-Shakib/WPS-Wifi-Penetration-Test-ROOT) installer for [Termux](https://termux.com/)
 ### Setup
 ```
-curl -sSf https://raw.githubusercontent.com/Sakib-BD-PLAYX/WPS-Wifi-Penetration-Test-ROOT_Termux_Installer/master/installer.sh | bash
+curl -sSf https://raw.githubusercontent.com/Programmer-Shakib/WPS-Wifi-Penetration-Test-ROOT_Termux_Installer/master/installer.sh | bash
 ```
 ### Run
 Disable Wi-Fi in the system settings and run:
